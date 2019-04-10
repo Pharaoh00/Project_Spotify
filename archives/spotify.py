@@ -6,8 +6,8 @@ import time
 
 while True:
     time_before = time.time()
-    client_id = "a5410cad3aea48a88f7dccf4559f840c"
-    client_secret = "3f73d5c3e5e24278ab240c434be37e71"
+    client_id = ""
+    client_secret = ""
 
     grant_type = 'client_credentials'
 
